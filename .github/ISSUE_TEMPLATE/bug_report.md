@@ -12,10 +12,15 @@ A software bug is an error, flaw or fault in a computer program or system that c
 
 **To Reproduce**
 Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+The most important information included in bug documentation are the steps to reproduce it and here is why:
+
+    1.Prioritize. By including the path to the bug, anyone who wants to examine the bug for themselves can follow the steps and understand exactly what is being      reported. ...
+    2.Allocate Resources. ...
+    3.Recreate.
+
+
+
+
 
 **Expected behavior**
 A clear and concise description of what you expected to happen.
